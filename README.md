@@ -28,11 +28,9 @@ Using machines to forward the cause of science.
 ---
 
 ### HOW I WORK
-- Safety > convenience. Security > boasting.
+- Safety > convenience.
 - Fast is fine; safe is mandatory.
-- Reproducible > clever. If it isn’t documented, it didn’t happen.
-- Less theater, more patches.
-- Fewer knobs, safer defaults.
+- If it isn’t documented, it didn’t happen.
 - Threat-model first; automate the boring, verify the critical.
 
 ---
