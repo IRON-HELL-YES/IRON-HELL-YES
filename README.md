@@ -3,9 +3,8 @@
 
 CS student at the intersection of cybersecurity and neuroscience. On the bleeding edge of Linux OSS and systems where security is inegotiable, not a feature checkbox. Long-term, I want to push security hardening and scientific computing forward—applying neuro principles to ML and contributing to hematology research.
 
-Security isn’t an afterthought; it’s architectural. Integrity of data and models matters—compromised intelligence is worse than no intelligence.
-
-Using machines to forward the cause of science.
+- **COLLABS:** Not Yet. 
+- **DMs:** No.
 
 ---
 
