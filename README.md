@@ -1,4 +1,5 @@
-[![BANNER-1.gif](https://i.postimg.cc/Kvfwpzcj/BANNER-1.gif)](https://postimg.cc/GHBXHbyn)
+# IRON HELL YES
+*AKA Stern*
 
 CS student at the intersection of cybersecurity and neuroscience. On the bleeding edge of Linux OSS and systems where security is inegotiable, not a feature checkbox. Long-term, I want to push security hardening and scientific computing forward—applying neuro principles to ML and contributing to hematology research.
 
@@ -24,14 +25,6 @@ Using machines to forward the cause of science.
 | Identity and access management with least privilege. | Robust, auditable software for imaging and instrumentation control. | Curated, privacy-respecting datasets; traceable training runs. | Architectures and algorithms inspired by the brain. |
 | Network segmentation, secure transport, and monitored boundaries. | Automated pipelines for counting/classifying blood cells. | Models to accelerate hematology research and neuro-informed ML. | Spiking models, event-driven computation, energy-efficient inference. |
 | Data at rest/in transit protections, backups, and recovery drills. | Reproducible analyses for mapping and studying the brain. | Emphasis on interpretability and verification over leaderboard chasing. | Bridging theory with deployable systems. |
-
----
-
-### HOW I WORK
-- Safety > convenience.
-- Fast is fine; safe is mandatory.
-- If it isn’t documented, it didn’t happen.
-- Threat-model first; automate the boring, verify the critical.
 
 ---
 
